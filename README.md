@@ -14,9 +14,8 @@ It includes steps for data cleaning, feature encoding, scaling, and model evalua
 
 1. Clone the repo or download the code.
 2. Install required libraries:
-3. Run the Python script:
+3. Open and run the Notebook
 
-*(Or open the notebook if it’s a .ipynb)*
 
 ## Author
 
